@@ -332,3 +332,34 @@
     font-weight: 400;
 }
 
+.foot-section{
+    background: rgba(19, 19, 24, 0.05);
+    margin-top: 100px;
+    padding: 100px 0;
+}
+
+.foot-content{
+    max-width: 1320px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.foot-img{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+.foot-des{
+    padding: 15px 0 30px 0;
+}
+
+.icon-social{
+    font-size: 30px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+
+.reserved{
+    margin-top: 50px;
+}
