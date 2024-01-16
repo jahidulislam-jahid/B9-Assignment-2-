@@ -140,3 +140,109 @@
     line-height: 26px;
     color: rgba(19,19,24,0.7);
 }
+
+.destination{
+    max-width: 1320px;
+    margin: 60px auto;
+}
+
+#short-description{
+    margin: 24px 0 45px 0; 
+}
+
+.about{
+    text-align: center;
+}
+
+.row-section{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+    margin-left: 60px;
+}
+
+.set{
+    position: relative;
+}
+
+.set img{
+    width: 100%;
+}
+
+.set > h3{
+    font-size: 28px;
+    font-weight: 800;
+    color: #fff;
+    position: absolute;
+}
+
+.mal{
+    left: 38%;
+    top: 42%;
+}
+
+.indo,
+.band{
+    left: 38%;
+    top: 42%;
+}
+
+.sri{
+    left: 33%;
+    top: 42%;
+}
+
+.nora{
+    left: 28%;
+    top: 42%;
+}
+
+.kash,
+.ban{
+    left: 30%;
+    top: 42%;
+}
+
+.choose{
+    max-width: 1320px;
+    margin: 50px auto;
+}
+
+.row-section2{
+    display: flex;
+    gap: 24px;
+}
+
+.row-section2 .other{
+    max-height: 250px;
+    max-width: 556px;
+    background-color: rgba(251, 181, 99, 0.05);
+    padding: 16px 50px 32px 32px;
+    border-radius: 16px;
+    background-color: rgba(251, 181, 99, 0.2);
+}
+
+.other img{
+    width: 64px;
+    height: 64px;
+}
+
+.center{
+    margin: 0 auto;
+    margin-top: 28px;
+}
+
+.c-content{
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.sorted1{
+    margin-top: 24;
+}
+
+#other2{
+    border: 2px solid rgba(251, 181, 99, 0.2);
+    border-radius: 16px;
+    background: rgba(251, 181, 99, 0.05);
+}
