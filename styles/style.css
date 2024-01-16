@@ -41,10 +41,6 @@
     list-style: none;
 }
 
-/* .input-section{
-    display: none;
-} */
-
 .nav-bar .home-word{
     color: #ff5400;
 }
@@ -249,9 +245,10 @@
 
 .news{
     max-width: 1320px;
-    margin: 0 auto;
+    margin: 30px auto;
     display: flex;
     gap: 24px;
+    margin-right: 40px;
 }
 
 .from-section{
