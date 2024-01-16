@@ -246,3 +246,89 @@
     border-radius: 16px;
     background: rgba(251, 181, 99, 0.05);
 }
+
+.news{
+    max-width: 1320px;
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+}
+
+.from-section{
+    border-radius: 16px;
+    border: 1px solid #ff5400;
+}
+
+.news-input{
+    max-width: 390px;
+    margin: 0 auto;
+}
+
+.news-input input{
+    min-width: 390px;
+    height: 50px;
+    background-color: rgba(19, 19, 24, 00.05);
+    border-radius: 8px;
+    border: none;
+    outline: 0;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.news-title{
+    color: #131318;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 24px;
+    padding: 50px 16px 0 24px;
+}
+
+.news-des{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #5a5a5d;
+    margin-bottom: 24px;
+    padding: 0 16px 0 24px;
+}
+
+.hr-field{
+    margin-bottom: 24px;
+    max-width: 390px;
+    margin-left: 24px;
+}
+
+.sub{
+    width: 390px;
+    height: 50px;
+}
+
+.news-img{
+    position: relative;
+}
+
+.discount{
+    max-width: 300px;
+    padding: 20px;
+    background-color: #ff5400;
+    position: absolute;
+    bottom: 44px;
+    right: 6px;
+    text-align: center;
+    border-radius: 16px;
+    transform: rotate(-19deg);
+}
+
+.discount h3{
+    font-size: 32px;
+    font-weight: 800;
+    color: #fff;
+}
+
+.discount p{
+    color: #fff;
+    font-size: 24px;
+    font-weight: 400;
+}
+
