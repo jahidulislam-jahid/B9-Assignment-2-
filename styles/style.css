@@ -101,3 +101,42 @@
 .primary-button i{
     font-size: 16px;
 }
+
+.tour{
+    max-width: 1320px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    gap: 50px;
+    margin-top: 100px;
+    color: rgba(90, 90, 93, 1);
+}
+
+.t-content{
+    max-width: 570px;
+}
+
+.t-title{
+    font-weight: 800;
+    font-size: 40px;
+    color: #131318;
+}
+
+.m{
+    margin: 24px 0;
+}
+
+.m-top{
+    margin-top: 10px;
+}
+
+.left{
+    margin-left: 30px;
+}
+
+.t-description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: rgba(19,19,24,0.7);
+}
